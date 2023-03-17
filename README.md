@@ -5,13 +5,13 @@ My Modular Eurorack Synth
 
 - PSU: Power supply + Breakout board
 
-- Oscillator: 
+- OSC: Oscillator
 
 - Filter:
 
 - Envelope Generator:
 
-- Low Freq Oscillator (LFO):
+- LFO: Low Freq Oscillator
 
 - Mixer:
 

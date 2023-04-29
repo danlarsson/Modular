@@ -1,0 +1,4 @@
+KiCad help files:
+https://github.com/JonathanBedrava/eurorack-kicad-templates
+https://github.com/danroblewis/kicad-eurorack-tools
+

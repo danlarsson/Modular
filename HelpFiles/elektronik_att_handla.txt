@@ -1,0 +1,66 @@
+INTEGRATED CIRCUITS
+
+     
+    10x TL074 quad op-amp (if out of stock, go for TL084)
+    10x TL072 dual op-amp
+    5x 40106 hex schmitt trigger inverter
+    5x 4015 dual 4-bit shift register*
+    5x 4017 decade counter*  
+    2x LM13700 dual OTA*
+
+
+TRANSISTORS
+
+    40x BC548B NPN transistor (if out of stock, go for BC547B)     
+    40x BC558B transistor (if out of stock, go for BC559B)
+    10x 2N5457 n-channel JFET*
+
+
+DIODES
+
+     
+    100x 1N4148 switching signal diode
+    25x LED (pick whichever color you like)
+    20x 1N4007 rectifier diode*
+
+
+POTENTIOMETERS
+
+     
+    set of linear mono potentiometers (1k, 5k, 10k, 20k, 50k, 100k, 250k, 500k, 1M)
+    5x 1k precision trimmer/trim pot
+
+
+RESISTORS
+
+     
+    100x 100k resistor
+    50x 1M resistor
+    50x 47k resistor     
+    50x 33k resistor
+    50x 10k resistor
+    50x 1k resistor
+    25x 4k7 resistor
+    10x 200k resistor
+    10x 330 resistor
+    10x 20k resistor
+    10x 27k resistor
+    10x 1k5 resistor
+
+
+CAPACITORS
+
+     
+    20x 1uF foil cap
+     
+    20x 1nF foil cap
+     
+    10x 33nF foil cap
+     
+    10x 2.2nF foil cap
+     
+    10x 100nF foil cap
+     
+    10x 100 nF ceramic cap*
+     
+    10x 10uF electrolytic cap*

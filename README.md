@@ -1,17 +1,23 @@
-# modular
+# My Modular
 My Modular Eurorack Synth
+
+The plan is to build every module myself, with help from the all mighty internet to get schematics and tips.
+
+KiCad 7.0 is used to create the schematics and PCBs.
+
 
 # Planned Modules:
 
-- PSU: Power supply + Breakout board
+1. PSU: Power supply + Breakout board + Frontpanel
+https://github.com/danlarsson/Modular/tree/main/PSU
 
-- OSC: Oscillator
+2. OSC: Oscillator
 
-- Filter:
+3. Filter:
 
-- Envelope Generator:
+4. Envelope Generator:
 
-- LFO: Low Freq Oscillator
+5. LFO: Low Freq Oscillator
 
-- Mixer:
+6. Mixer:
 

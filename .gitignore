@@ -1,5 +1,5 @@
 *-backups/
 **/*-backups/
-*.DS_Store
-**/*.DS_Store
+.DS_Store
+**/.DS_Store
 

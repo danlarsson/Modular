@@ -1,0 +1,58 @@
+Transistor:
+50st BC548 
+4st  TIP210  NPN Darington 60V/5A TO-220
+
+
+Cap:
+Electrolyts:
+25st .1uF  50V
+15st 1uF  50V
+2st  4,7uF 50v
+15st 10uF 50V
+10st 10uF 25V
+2st  33uF 25V
+1st  47uF 50V
+15st 100uF 25V
+1st  220uF 63V
+
+
+Res 1% 0.25W:
+
+25st 1k
+25st 10k
+25st 47k
+25st 100k
+
+
+
+
+Dioder:
+10st 1N4148  DO-35
+
+Voltage Reg:
+1st L7805CV   1A  TO-220
+1st L8004ACZ 100mA  TO-92
+
+
+IC:
+2st 40106B Hex Inverter with schmitt trigger DIP-14
+4st 5051B  Single 8ch Analog Multiplexer/Demultiplexer  DIP-16
+2st 4040B  12-Stage ripple-carry Binary Conter/Divider  DIP-16
+2st LM386N Audioförstärakre 1W  DIp-8
+
+
+IC-Hållare:
+4st DIL-16
+2st DIL-14
+
+LED: 
+25st  5mm Yellow
+100st 5mm Blue
+100st 5mm Red
+100st 5mm Warm White
+
+Div
+25st 3.5mm Jack mono chassie
+25st 3.5mm mono plugg
+4st  3.5mm sterieo plug
+

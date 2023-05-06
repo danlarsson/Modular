@@ -9,7 +9,14 @@ KiCad 7.0 is used to create the schematics and PCBs.
 # Planned Modules:
 
 1. PSU: Power supply + Breakout board + Frontpanel
-https://github.com/danlarsson/Modular/tree/main/PSU
+  - Power Supply 
+    - [X] Design, [] Order, [] Build, [] Test, [] Publish
+ 
+  - Breakout board
+    - [] Design, [] Order, [] Build, [] Test, [] Publish
+
+  - Front panel
+    - [] Design, [] Order, [] Build, [] Test, [] Publish
 
 2. OSC: Oscillator
 

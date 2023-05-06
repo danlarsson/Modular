@@ -19,5 +19,7 @@ https://github.com/danlarsson/Modular/tree/main/PSU
 
 5. LFO: Low Freq Oscillator
 
-6. Mixer:
+6. VCA:
+
+7. Mixer:
 

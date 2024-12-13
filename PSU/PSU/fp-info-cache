@@ -1,4 +1,4 @@
-21603130140748431
+21567713872895680
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -524,13 +524,6 @@ Matias ALPS keyswitch ISO enter
 0
 2
 2
-Button_Switch_SMD
-1241160023
-1241.1600.23-2
-Switch
-0
-4
-4
 Button_Switch_SMD
 Nidec_Copal_SH-7010A
 4-bit rotary coded switch, J-hook, https://www.nidec-copal-electronics.com/e/catalog/switch/sh-7000.pdf
@@ -53529,13 +53522,6 @@ emi filter
 5
 5
 Fuse
-FUSC8664X180N
-3425L200/60MR
-Fuse
-0
-2
-2
-Fuse
 Fuse_0402_1005Metric
 Fuse SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 fuse
@@ -73359,13 +73345,6 @@ VQFP QFP
 0
 176
 176
-Package_SIP
-AQZ202G
-AQZ202G-2
-Relay or Contactor
-0
-4
-4
 Package_SIP
 PowerIntegrations_eSIP-7C
 eSIP-7C Vertical Flat Package with Heatsink Tab, https://ac-dc.power.com/sites/default/files/product-docs/topswitch-jx_family_datasheet.pdf

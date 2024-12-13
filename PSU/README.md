@@ -1,11 +1,18 @@
 # PSU
-A PowerSuply that converts 12V AC to +12, -12 and 5 Volts.
+A PowerSuply that converts 12-15V AC to +12, -12 and 5 Volts.
 Containt 3 parts the PSU a Power Rail and a Front panel with a switch and LEDs.
+
+# PDB
+Power Distribution Board
+
+# Front Panel
+Front Panel for the PSU, with LED indicators and a Connector to get power for experiments.
 
 ## Idéas from:
 https://www.patreon.com/moritzklein/posts?filters%5Btag%5D=PSU%20series
 
 http://musicfromouterspace.com/analogsynth_new/WALLWARTSUPPLY/wallwart_added_load_rs_schem.pdf
+
 
 ## Parts:
 6st - 4700uF 35V Elec Cap

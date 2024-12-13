@@ -1495,7 +1495,7 @@
     (effects (font (size 1.27 1.27) (color 255 167 47 1)) (justify left bottom))
     (uuid 6018a75a-7a02-46ae-95c4-57b09e346ed8)
   )
-  (text "12-15V AC\n\nMount the center tap to Pole 1\n\nNone center tapped transformer, \nuse pole 1&3"
+  (text "12-15V AC\n\nMount the center tap to Pole 3\n\nNone center tapped transformer, \nuse pole 1&3"
     (at 36.83 110.49 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid e0d04d66-c612-442b-afb0-3973ab45a39b)

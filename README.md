@@ -8,7 +8,7 @@ PCBWay or JLCPCB is used for the PCBs.
 
 # Planned Modules:
 
-1. PSU: Power supply + Breakout board + Frontpanel
+## 1. PSU: Power supply + Breakout board + Frontpanel
   - Power Supply 
     - [X] Design, [X] Order, [] Build, [] Test
  
@@ -18,17 +18,17 @@ PCBWay or JLCPCB is used for the PCBs.
   - Front panel
     - [] Design, [] Order, [] Build, [] Test
 
-2. VCO: Voltage Conntrolled Oscillator
- - VCO_1
+## 2. VCO: Voltage Conntrolled Oscillator
+ ### VCO_1
   - [] Design, [] Order, [] Build, [] Test
 
-3. Filter:
+## 3. VCF: Filter:
 
-4. Envelope Generator:
+## 4. Envelope Generator:
 
-5. LFO: Low Freq Oscillator
+## 5. LFO: Low Freq Oscillator
 
-6. VCA:
+## 6. VCA: Voltage Controlled Amplifier
 
-7. Mixer:
+## 7. Mixer:
 
